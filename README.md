@@ -1,13 +1,13 @@
 # Internet-Engineering-Course-Projects
 This repository hosts the complete source code for the Spring 2023 Internet Engineering course project at the University of Tehran. We built an e-commerce online shop from scratch, employing the following tech stack in the final phase:
 
-* #### Backend development: Java + Spring framework
+* #### Backend development: Java + Spring Framework
 * #### Frontend development: React + Bootstrap
 * #### Database: MySQL RDBMS
 * #### Deployment: Docker + Nginx
 <br>
 
-## Developement
+## Development
 
 The project progressed through multiple phases, each focusing on specific aspects:
 
