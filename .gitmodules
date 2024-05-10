@@ -1,0 +1,24 @@
+[submodule "IE-CA-1"]
+	path = IE-CA-1
+	url = https://github.com/alimrn001/IE-CA-1
+[submodule "IE-CA-2"]
+	path = IE-CA-2
+	url = https://github.com/alimrn001/IE-CA-2
+[submodule "IE-CA-3"]
+	path = IE-CA-3
+	url = https://github.com/alimrn001/IE-CA-3
+[submodule "IE-CA-4"]
+	path = IE-CA-4
+	url = https://github.com/alimrn001/IE-CA-4
+[submodule "IE-CA-5"]
+	path = IE-CA-5
+	url = https://github.com/alimrn001/IE-CA-5
+[submodule "IE-CA-6"]
+	path = IE-CA-6
+	url = https://github.com/alimrn001/IE-CA-6
+[submodule "IE-CA-7"]
+	path = IE-CA-7
+	url = https://github.com/alimrn001/IE-CA-7
+[submodule "IE-CA-8"]
+	path = IE-CA-8
+	url = https://github.com/alimrn001/IE-CA-8
