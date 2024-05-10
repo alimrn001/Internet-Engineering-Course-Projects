@@ -5,6 +5,7 @@ This repository hosts the complete source code for the Spring 2023 Internet Engi
 * #### Frontend development: React + Bootstrap
 * #### Database: MySQL RDBMS
 * #### Deployment: Docker + Nginx
+<br>
 
 ## Developement
 
@@ -18,6 +19,7 @@ The project progressed through multiple phases, each focusing on specific aspect
 ### CA-6: JDBC, MySQL RDBMS
 ### CA-7: JWT Authentication, SQL Injection Prevention
 ### CA-8: Docker, Nginx
+<br>
 
 ## System Description
 
@@ -28,3 +30,12 @@ The system developed in this course is named Baloot, an online e-commerce shop t
 * #### Rating products
 * #### Managing their buylist by adding or removing items
 * #### Posting comments on products, and liking/disliking them
+<br>
+
+## Pictures
+
+<img src="pictures/login.png" alt="login" width="500"/>
+<img src="pictures/product.png" alt="product" width="500"/>
+<img src="pictures/user.png" alt="user" width="500"/>
+
+
